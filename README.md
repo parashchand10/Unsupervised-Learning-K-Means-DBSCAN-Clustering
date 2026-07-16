@@ -30,13 +30,3 @@ Groups points based on density rather than distance to a center, and automatical
 4. Fit model and assign cluster labels
 5. Visualize results with scatter plots
 6. Compare and conclude
-
-## Key Takeaway
-```
-| | K-Means | DBSCAN |
-|---|---|---|
-| Cluster shape | Circular / convex | Irregular / non-convex |
-| Number of clusters | Must be specified | Found automatically |
-| Handles outliers | No | Yes |
-| Best for | Evenly distributed data | Density-based, noisy data |
-```
