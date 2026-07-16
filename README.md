@@ -2,8 +2,6 @@
 
 A hands-on notebook covering two core clustering algorithms — **K-Means** and **DBSCAN** — implemented from scratch using `scikit-learn` on synthetic datasets.
 
-![Clustering Preview](assets/clustering_preview.png)
-
 ## Overview
 
 Unsupervised learning trains on data with no labels — the goal is to find natural structure or groupings in the data on its own. This notebook walks through two widely used clustering algorithms, how they work, and when to use one over the other.
